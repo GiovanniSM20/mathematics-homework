@@ -1,0 +1,19 @@
+{
+  "name": "mathematics-homework",
+  "version": "1.0.0",
+  "description": "Mathematics Homework",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/electron/electron-quick-start",
+  "keywords": [
+    "homework",
+    "mathematics"
+  ],
+  "author": "Martins Giovanni",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^2.0.0"
+  }
+}
