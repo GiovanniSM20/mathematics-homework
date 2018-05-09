@@ -1,4 +1,4 @@
-# Myathematics Homework
+# Mathematics Homework
 
 ## To Use
 
